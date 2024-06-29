@@ -106,6 +106,7 @@
     .user-img span {
     color: var(--third-color);
     font-size: 15px;
+    line-height: 16px;
     }
     .user-profiles .dropdown-toggle {
     align-items: center;
